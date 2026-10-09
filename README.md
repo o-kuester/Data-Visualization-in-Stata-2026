@@ -30,7 +30,7 @@ This repository contains the Iris dataset and Stata do-files used for workshop d
 
 1. Download the do-files from this repository.
 2. Open the do-files in Stata.
-3. **Note:** You do not need to download the Iris dataset separately. The do-files import the data directly from this GitHub repository, so an internet connection is required to run the import command.
+3. **Note:** You do not need to download the Iris dataset separately. The do-files import the data directly from this GitHub repository, so only an internet connection is required to run the import command.
 
 
 
