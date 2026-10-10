@@ -19,7 +19,7 @@ For more information about the dataset, see the [UCI Machine Learning Repository
 
 ## Repository Contents
 
-This repository contains the Iris dataset and Stata do-files used for workshop demonstrations and hands-on exercises.
+This repository contains the workshop slides, the Iris dataset and Stata do-files used for workshop demonstrations and hands-on exercises.
 
 ## Requirements
 
