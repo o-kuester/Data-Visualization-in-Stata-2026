@@ -26,19 +26,21 @@ This repository contains the workshop slides, the Iris dataset and Stata do-file
 * Stata
 * The do-files provided in this repository. 
 
+
 ## Getting Started
 
 You can run the workshop code using your own installation of Stata or through the University of Iowa's virtual desktop.
 
-1. **Download the workshop do-files.** Download the `.do` files from this repository to your computer.
+1. **Access Stata.** Open Stata on your own computer if you have it installed. Otherwise, log in to the [University of Iowa Virtual Desktop](https://its.uiowa.edu/services/virtual-desktop) and open Stata there.
 
-2. **Open Stata.** If you have Stata installed on your computer, open it and load the downloaded do-file. If you do not have access to Stata on your own computer, log in to the [University of Iowa Virtual Desktop](https://its.uiowa.edu/services/virtual-desktop) and open Stata there.
+2. **Download the workshop do-files.** Download the `.do` files from this repository to your computer. If you are using the virtual desktop, you may need to upload the files to the virtual environment before opening them in Stata.
 
-3. **Follow Along During the Workshop.** Open the unfilled do-file in Stata to follow along with the workshop demonstrations and complete the code yourself.
+3. **Follow Along During the Workshop.** Open the unfilled do-file in Stata's Do-file Editor to follow the demonstrations and complete the code yourself.
 
-4. **Use the Filled-In Version for Reference.** Save the filled-in do-file for future reference. It contains the completed code from the workshop that you can revisit when practicing or creating your own visualizations.
+4. **Keep the Filled-In Version for Reference.** The filled-in do-file contains the completed workshop code. Save it for future reference when practicing or creating your own visualizations.
 
-**Note:** If you are using the University of Iowa Virtual Desktop, you may need to upload the downloaded do-files to the virtual environment before opening them in Stata. You do not need to download the Iris dataset separately, as the do-files import the data directly from this repository. An active internet connection is required to import the data.
+**Note:** You do not need to download the Iris dataset separately. The do-files import the data directly from this repository, so an active internet connection is required to run the data import command.
+
 
 
 ## About
