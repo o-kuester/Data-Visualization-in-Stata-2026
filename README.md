@@ -1,7 +1,7 @@
 #  Introduction to Data Visualization in Stata
 # Presented and Prepared by O. Kuester 
 
-This repository contains example data and Stata code for the Introduction to Data Visualization in Stata workshop hosted by the University of Iowa's Center for Social Science Innovation (CSSI) in 2026.
+This repository contains example data and Stata code for the Introduction to Data Visualization in Stata workshop hosted by the University of Iowa's Center for Social Science Innovation (CSSI) on October 21st, 2026.
 
 ## Workshop Overview
 
